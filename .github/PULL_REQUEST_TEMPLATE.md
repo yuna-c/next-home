@@ -1,3 +1,11 @@
+---
+name: Feature Request Template
+about: 풀 리퀘스트 템플릿
+title: 'FEAT:'
+labels: ''
+assignees: ''
+---
+
 ## #️⃣연관된 이슈
 
 > ex) #이슈번호, #이슈번호
