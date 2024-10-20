@@ -18,7 +18,7 @@ export interface InputProps {
 }
 
 /** Primary UI component for user interaction */
-export const Input: React.FC<InputProps> = ({ label, placeholder = '', disabled = false, size = 'medium', backgroundColor, ...props }: InputProps) => {
+export const Input = ({ label, placeholder = '', disabled = false, size = 'medium', backgroundColor, ...props }: InputProps) => {
   return (
     <div className={cn('storybook-input', `storybook-input--${size}`)} style={{ marginBottom: '16px' }}>
       <label className="storybook-input__label" style={{ marginBottom: '8px' }}>
