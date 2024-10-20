@@ -49,6 +49,13 @@ export const Large: Story = {
     size: 'large'
   }
 }
+export const medium: Story = {
+  args: {
+    label: 'Username',
+    placeholder: 'Enter your username',
+    size: 'medium'
+  }
+}
 
 export const Small: Story = {
   args: {
