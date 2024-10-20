@@ -2,8 +2,7 @@
 name: Feature Request Template
 about: 기능 추가 이슈 템플릿
 title: ''
-labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
-  invalid, question, wontfix
+labels: ''
 assignees: ''
 
 ---

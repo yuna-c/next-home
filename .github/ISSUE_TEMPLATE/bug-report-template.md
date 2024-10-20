@@ -2,8 +2,7 @@
 name: Bug Report Template
 about: 버그 리포트 이슈 템플릿
 title: ''
-labels: bug, documentation, duplicate, enhancement, good first issue, help wanted,
-  invalid, question, wontfix
+labels: bug
 assignees: ''
 
 ---
